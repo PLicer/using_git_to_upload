@@ -47,6 +47,6 @@ public class Main {
         shape a;
         shape b;
         System.out.println(diff.diffInArea(a=new square(10),b=new square(8)));
-        System.out.println("Task is completed");
+        System.out.println("Task is completed finally");
     }
 }
